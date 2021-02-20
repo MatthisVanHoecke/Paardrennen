@@ -1,0 +1,10 @@
+D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\bin\Debug\Paardenrennen.exe.config
+D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\bin\Debug\Paardenrennen.exe
+D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\bin\Debug\Paardenrennen.pdb
+D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\obj\Debug\Paardenrennen.csprojAssemblyReference.cache
+D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\obj\Debug\Paardenrennen.frmpaardrennen.resources
+D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\obj\Debug\Paardenrennen.Properties.Resources.resources
+D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\obj\Debug\Paardenrennen.csproj.GenerateResource.cache
+D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\obj\Debug\Paardenrennen.csproj.CoreCompileInputs.cache
+D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\obj\Debug\Paardenrennen.exe
+D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\obj\Debug\Paardenrennen.pdb
