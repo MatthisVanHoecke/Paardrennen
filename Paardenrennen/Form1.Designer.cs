@@ -43,6 +43,11 @@
             this.tmrpaard1 = new System.Windows.Forms.Timer(this.components);
             this.tmrpaard2 = new System.Windows.Forms.Timer(this.components);
             this.tmrpaard3 = new System.Windows.Forms.Timer(this.components);
+            this.btnP1 = new System.Windows.Forms.Button();
+            this.btnP2 = new System.Windows.Forms.Button();
+            this.btnP3 = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.btnSetSaldo = new System.Windows.Forms.Button();
             this.tabControl.SuspendLayout();
             this.tabPaarden.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pctrbxpaard3)).BeginInit();
@@ -64,6 +69,11 @@
             // 
             // tabPaarden
             // 
+            this.tabPaarden.Controls.Add(this.btnSetSaldo);
+            this.tabPaarden.Controls.Add(this.label1);
+            this.tabPaarden.Controls.Add(this.btnP3);
+            this.tabPaarden.Controls.Add(this.btnP2);
+            this.tabPaarden.Controls.Add(this.btnP1);
             this.tabPaarden.Controls.Add(this.lblsaldo);
             this.tabPaarden.Controls.Add(this.txtsaldo);
             this.tabPaarden.Controls.Add(this.pctrbxpaard3);
@@ -93,9 +103,10 @@
             // 
             this.txtsaldo.Location = new System.Drawing.Point(663, 388);
             this.txtsaldo.Name = "txtsaldo";
+            this.txtsaldo.ReadOnly = true;
             this.txtsaldo.Size = new System.Drawing.Size(104, 20);
             this.txtsaldo.TabIndex = 1;
-            this.txtsaldo.Text = "1000";
+            this.txtsaldo.TextChanged += new System.EventHandler(this.Txtsaldo_TextChanged);
             // 
             // pctrbxpaard3
             // 
@@ -182,6 +193,55 @@
             this.tmrpaard3.Interval = 10;
             this.tmrpaard3.Tick += new System.EventHandler(this.Tmrpaard3_Tick);
             // 
+            // btnP1
+            // 
+            this.btnP1.Location = new System.Drawing.Point(247, 386);
+            this.btnP1.Name = "btnP1";
+            this.btnP1.Size = new System.Drawing.Size(75, 23);
+            this.btnP1.TabIndex = 7;
+            this.btnP1.Text = "paard 1";
+            this.btnP1.UseVisualStyleBackColor = true;
+            this.btnP1.Click += new System.EventHandler(this.BtnP1_Click);
+            // 
+            // btnP2
+            // 
+            this.btnP2.Location = new System.Drawing.Point(328, 386);
+            this.btnP2.Name = "btnP2";
+            this.btnP2.Size = new System.Drawing.Size(75, 23);
+            this.btnP2.TabIndex = 8;
+            this.btnP2.Text = "paard 2";
+            this.btnP2.UseVisualStyleBackColor = true;
+            this.btnP2.Click += new System.EventHandler(this.BtnP2_Click);
+            // 
+            // btnP3
+            // 
+            this.btnP3.Location = new System.Drawing.Point(409, 386);
+            this.btnP3.Name = "btnP3";
+            this.btnP3.Size = new System.Drawing.Size(75, 23);
+            this.btnP3.TabIndex = 9;
+            this.btnP3.Text = "paard 3";
+            this.btnP3.UseVisualStyleBackColor = true;
+            this.btnP3.Click += new System.EventHandler(this.BtnP3_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(194, 391);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(48, 13);
+            this.label1.TabIndex = 10;
+            this.label1.Text = "Inzetten:";
+            // 
+            // btnSetSaldo
+            // 
+            this.btnSetSaldo.Location = new System.Drawing.Point(541, 388);
+            this.btnSetSaldo.Name = "btnSetSaldo";
+            this.btnSetSaldo.Size = new System.Drawing.Size(75, 23);
+            this.btnSetSaldo.TabIndex = 11;
+            this.btnSetSaldo.Text = "set saldo";
+            this.btnSetSaldo.UseVisualStyleBackColor = true;
+            this.btnSetSaldo.Click += new System.EventHandler(this.BtnSetSaldo_Click);
+            // 
             // frmpaardrennen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -218,6 +278,11 @@
         private System.Windows.Forms.Timer tmrpaard3;
         private System.Windows.Forms.Label lblsaldo;
         private System.Windows.Forms.TextBox txtsaldo;
+        private System.Windows.Forms.Button btnP3;
+        private System.Windows.Forms.Button btnP2;
+        private System.Windows.Forms.Button btnP1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnSetSaldo;
     }
 }
 

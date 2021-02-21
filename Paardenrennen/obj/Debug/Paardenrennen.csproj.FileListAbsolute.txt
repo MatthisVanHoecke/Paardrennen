@@ -8,3 +8,23 @@ D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\obj\Debug\Paardenrennen
 D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\obj\Debug\Paardenrennen.csproj.CoreCompileInputs.cache
 D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\obj\Debug\Paardenrennen.exe
 D:\school\C# projects\jaar 2\Paardenrennen\Paardenrennen\obj\Debug\Paardenrennen.pdb
+C:\Users\avid\Desktop\paardrennen\Paardrennen\Paardenrennen\bin\Debug\Paardenrennen.exe.config
+C:\Users\avid\Desktop\paardrennen\Paardrennen\Paardenrennen\bin\Debug\Paardenrennen.exe
+C:\Users\avid\Desktop\paardrennen\Paardrennen\Paardenrennen\bin\Debug\Paardenrennen.pdb
+C:\Users\avid\Desktop\paardrennen\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.csprojAssemblyReference.cache
+C:\Users\avid\Desktop\paardrennen\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.frmpaardrennen.resources
+C:\Users\avid\Desktop\paardrennen\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.Properties.Resources.resources
+C:\Users\avid\Desktop\paardrennen\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.csproj.GenerateResource.cache
+C:\Users\avid\Desktop\paardrennen\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.csproj.CoreCompileInputs.cache
+C:\Users\avid\Desktop\paardrennen\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.exe
+C:\Users\avid\Desktop\paardrennen\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.pdb
+D:\school\C# projects\jaar 2\Paardrennen\Paardenrennen\bin\Debug\Paardenrennen.exe.config
+D:\school\C# projects\jaar 2\Paardrennen\Paardenrennen\bin\Debug\Paardenrennen.exe
+D:\school\C# projects\jaar 2\Paardrennen\Paardenrennen\bin\Debug\Paardenrennen.pdb
+D:\school\C# projects\jaar 2\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.csprojAssemblyReference.cache
+D:\school\C# projects\jaar 2\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.frmpaardrennen.resources
+D:\school\C# projects\jaar 2\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.Properties.Resources.resources
+D:\school\C# projects\jaar 2\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.csproj.GenerateResource.cache
+D:\school\C# projects\jaar 2\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.csproj.CoreCompileInputs.cache
+D:\school\C# projects\jaar 2\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.exe
+D:\school\C# projects\jaar 2\Paardrennen\Paardenrennen\obj\Debug\Paardenrennen.pdb
